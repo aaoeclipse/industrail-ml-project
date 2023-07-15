@@ -13,7 +13,7 @@ Industrial machine learning is becoming a standard practice for retail companies
 | Name  | Description  | git hub | linkedin |
 | Name  | Description  | git hub | linkedin |
 
-# Instalation
+# Installation
 
 1. Download [Manjeetsingh's retail dataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset) into a data/ folder in the root of the project
 2. Install python dependencies
