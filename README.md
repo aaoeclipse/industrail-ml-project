@@ -13,7 +13,7 @@ Heloc lending process improvement is becoming a standard practice for financial 
 | Name  | Description  | git hub | linkedin |
 | Name  | Description  | git hub | linkedin |
 
-# Instalation
+# Installation
 
 1. Download [MSTZ Heloc Dataset](https://huggingface.co/datasets/mstz/heloc) into a data/ folder in the root of the project
 2. Install python dependencies
