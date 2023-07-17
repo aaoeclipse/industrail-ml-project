@@ -1,4 +1,4 @@
-# Retail Analysis
+# Heloc Predictor Project
 
 This project focus on creating a detail analysis and machine learning for decision making predictions based on [MSTZ Heloc Dataset](https://huggingface.co/datasets/mstz/heloc) huggingface.co.
 
