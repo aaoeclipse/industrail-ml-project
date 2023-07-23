@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6a1f85326fe54a67a3c5e074c207fc9c/artifacts
+end_time: 1690127891532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1f85326fe54a67a3c5e074c207fc9c
+run_name: fun-cod-387
+run_uuid: 6a1f85326fe54a67a3c5e074c207fc9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690127891525
+status: 4
+tags: []
+user_id: eclipse
