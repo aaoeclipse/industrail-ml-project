@@ -1,0 +1,19 @@
+artifact_path: random_forest
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.5.0
+model_uuid: 3078f891c8924464b0621b6ad90eab8f
+run_id: b47f6b412c374b35a08b90c0b39bdeca
+utc_time_created: '2023-07-24 21:03:06.188390'
