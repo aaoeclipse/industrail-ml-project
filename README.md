@@ -20,4 +20,12 @@ Heloc lending process improvement is becoming a standard practice for financial 
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-3. You can now run the analysis.ipynb file
+
+
+# Setup
+1. Follow the steps in the installation
+2. setup mlflow with the correct database
+```bash
+mlflow ui --backend-store-uri sqlite:///mlflow.db
+```
+3. Run the analysis.ipynb
