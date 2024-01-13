@@ -11,9 +11,7 @@ Heloc lending process improvement is becoming a standard practice for financial 
 | Name          | Description                        | Github Account | LinkedIn                                                                      |
 | ------------- | ---------------------------------- | -------------- | ----------------------------------------------------------------------------- |
 | Santiago Paiz | Software Engineer & Data Scientist | @aaoeclipse    | [santiago-paiz-7b2a7268](https://www.linkedin.com/in/santiago-paiz-7b2a7268/) |
-
-| Alex "Andru
-Andrushevich | Software Engineer & Data Scientist | @QuantGeekDev | [alex-andrushevich-5544845a](https://www.linkedin.com/in/alex-andrushevich-5544845a/) |
+| Alex "Andru Andrushevich | Software Engineer & Data Scientist | @QuantGeekDev | [alex-andrushevich-5544845a](https://www.linkedin.com/in/alex-andrushevich-5544845a/) |
 
 # Installation
 
